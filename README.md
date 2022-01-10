@@ -8,9 +8,13 @@ As we see in the charts of outcomes based on launch dates that the best timing t
 
 * chart outcomes based on launch date.
 
-* chart outcomes Vs goals.
+![This is an image](https://github.com/Marwan-Takrouri/kickstarter-1/blob/main/Outcomes%20Based%20on%20Launch%20Date.png)
 
-As being challenging situations, the data could be more useful if we had the chance to have a comparison of the length of the plays , duration , or how many locations this plays shows at , 
+* chart outcomes Vs goals.
+![This is an image](https://github.com/Marwan-Takrouri/kickstarter-1/blob/main/outcomesVSgoals.png)
+
+
+As being challenging situations, the data could be more useful if we had the chance to have a comparison of the length of the plays , duration , or how many locations this plays shows at .
 The equations and analysis sometimes seem repetitive to get one outcome. Time consuming 
 Syntax errors could be time consuming as well.
 
@@ -20,5 +24,5 @@ Syntax errors could be time consuming as well.
 
 
 As mentioned earlier the best outcome of launch date analysis is that the best timing is June , although may and June in my opinion are relatively close to each other .and dec is the most weak month to be avoided .
-In the outcome vs goals I would advise to have more focus on figures between -1000-5000 as they make the successful factors for this campaign.
+In the outcome vs goals I would advise to have more focus on figures between 1000-5000 as they make the successful factors for this campaign.
 I would recommend analysing further to find the second-best options and third, to prepare for second and third scenario.
